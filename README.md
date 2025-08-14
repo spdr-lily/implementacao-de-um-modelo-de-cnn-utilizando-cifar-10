@@ -1,1 +1,1 @@
-# implementacao-de-um-modelo-de-cnn-utilizando-cifar-10
+# implementacao-de-um-modelo-de-cnn-utilizando-cifar10
